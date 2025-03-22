@@ -33,9 +33,7 @@
 SynLearn is built to bridge the gap between traditional e-learning and modern decentralized systems. By leveraging blockchain, it not only provides an intuitive and engaging user interface but also guarantees that every certificate and user credential is securely stored and verifiable. Whether you're a student eager to learn or an educator focused on delivering quality content, SynLearn offers a transparent, secure, and flexible platform.
 
 ---
-## demo:
-  
-https://github.com/Ankush2201/CodeShasatra_Syndicate/assets/79956433/7a98a98e-08dd-4e87-bc07-b6583b68b0ec
+
 
 
 ## Features
