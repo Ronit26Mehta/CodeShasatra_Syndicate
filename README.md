@@ -54,7 +54,27 @@ Experience SynLearn in action by viewing our demo video:
 [Demo on GitHub](https://github.com/Ankush2201/CodeShasatra_Syndicate/assets/79956433/7a98a98e-08dd-4e87-bc07-b6583b68b0ec)
 
 ---
+## system design  : 
+  1. workflow:
+     
+  ![image](https://github.com/user-attachments/assets/540ad7bf-b8e5-4f24-8af7-428ac1e64194)
+  
+  2. components  design:
 
+   ![image](https://github.com/user-attachments/assets/550ff561-1d67-4f38-9687-354e4a75ee56)
+
+ 3. activity diagram:
+
+  ![image](https://github.com/user-attachments/assets/697d7a79-372d-4f21-9962-42f4426f1e90)
+
+4. depolyement diagram:
+
+ ![image](https://github.com/user-attachments/assets/0cd06a9f-ea38-4ceb-834f-88104f15b81c)
+
+ 
+    
+
+ 
 ## Tech Stack
 
 - **Frontend**: 
